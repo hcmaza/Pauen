@@ -34,5 +34,6 @@
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/LOG4J"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JDBCMYSQL"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/sf4lj"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

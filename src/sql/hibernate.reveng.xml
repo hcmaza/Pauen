@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+
+
+
+	<table-filter match-name="actafinal"></table-filter>
+	<table-filter match-name="actaingreso"></table-filter>
+	<table-filter match-name="actaregularidad"></table-filter>
+	<table-filter match-name="alumno"></table-filter>
+	<table-filter match-name="carrera"></table-filter>
+	<table-filter match-name="ciclo"></table-filter>
+	<table-filter match-name="correlatividad"></table-filter>
+	<table-filter match-name="cursada"></table-filter>
+	<table-filter match-name="departamento"></table-filter>
+	<table-filter match-name="distrito"></table-filter>
+	<table-filter match-name="docente"></table-filter>
+	<table-filter match-name="domicilio"></table-filter>
+	<table-filter match-name="egresosecundario"></table-filter>
+	<table-filter match-name="encuesta"></table-filter>
+	<table-filter match-name="equivalencia"></table-filter>
+	<table-filter match-name="escuela"></table-filter>
+	<table-filter match-name="escuelatipo"></table-filter>
+	<table-filter match-name="expediente"></table-filter>
+	<table-filter match-name="expedientedenominacion"></table-filter>
+	<table-filter match-name="expedientetipo"></table-filter>
+	<table-filter match-name="final"></table-filter>
+	<table-filter match-name="formulario"></table-filter>
+	<table-filter match-name="ingresoaprobacion"></table-filter>
+	<table-filter match-name="inscripcion"></table-filter>
+	<table-filter match-name="inscripcionfinal"></table-filter>
+	<table-filter match-name="inscripcionperiodo"></table-filter>
+	<table-filter match-name="inscripto"></table-filter>
+	<table-filter match-name="llamado"></table-filter>
+	<table-filter match-name="materia"></table-filter>
+	<table-filter match-name="materiaingreso"></table-filter>
+	<table-filter match-name="nivel"></table-filter>
+	<table-filter match-name="opcional"></table-filter>
+	<table-filter match-name="pais"></table-filter>
+	<table-filter match-name="periodo"></table-filter>
+	<table-filter match-name="persona"></table-filter>
+	<table-filter match-name="planes"></table-filter>
+	<table-filter match-name="provincia"></table-filter>
+	<table-filter match-name="registro"></table-filter>
+	<table-filter match-name="regularidad"></table-filter>
+	<table-filter match-name="requisito"></table-filter>
+	<table-filter match-name="requisitoalumno"></table-filter>
+	<table-filter match-name="requisitociclo"></table-filter>
+	<table-filter match-name="tipodocumento"></table-filter>
+	<table-filter match-name="tipoinscripcion"></table-filter>
+	<table-filter match-name="tipomateria"></table-filter>
+	<table-filter match-name="tipooperacion"></table-filter>
+	<table-filter match-name="titulo"></table-filter>
+	<table-filter match-name="tmp"></table-filter>
+	<table-filter match-name="turno"></table-filter>
+	<table-filter match-name="turnonombre"></table-filter>
+	<table-filter match-name="usuario"></table-filter>
+	<table-filter match-name="usuarioacceso"></table-filter>
+</hibernate-reverse-engineering>
